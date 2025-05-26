@@ -1,5 +1,6 @@
 Overview
--This project is a clean and responsive landing page designed with modern web development practices. It includes a header, a visually appealing hero section, and a footer. The design ensures optimal user experience across various devices.
+
+This project is a clean and responsive landing page designed with modern web development practices. It includes a header, a visually appealing hero section, and a footer. The design ensures optimal user experience across various devices.
 
 Technologies Used
 - HTML5 – Structure and content
@@ -19,6 +20,7 @@ Setup Instructions
 - Open the index.html file and start the Live Server to view the page in the browser.
 - 
 Contribution
--Feel free to fork this repository, submit pull requests, or suggest improvements.
+
+Feel free to fork this repository, submit pull requests, or suggest improvements.
 
 
